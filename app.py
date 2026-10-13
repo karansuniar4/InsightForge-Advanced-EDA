@@ -49,7 +49,7 @@ st.markdown(
     <div class="hero">
       <h1>🔬 InsightForge</h1>
       <h3>Advanced Exploratory Data Analysis & Predictive Insights</h3>
-      <p>CodSoft Data Analytics Internship · Task 2</p>
+     
       <p class="small-muted">Profile data quality, discover patterns, quantify relationships, detect anomalies, and optionally train a baseline model.</p>
     </div>
     """,
