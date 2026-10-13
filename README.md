@@ -1,6 +1,6 @@
 # InsightForge — Advanced EDA Dashboard
 
-**CodSoft Data Analytics Internship — Task 2: Exploratory Data Analysis**
+**Task 2: Exploratory Data Analysis**
 
 InsightForge is an interactive data analytics dashboard developed using Python, Pandas, NumPy, Plotly, and Streamlit. It helps users explore datasets, identify trends and relationships, visualize data distributions, detect potential outliers, and generate analytical reports.
 
